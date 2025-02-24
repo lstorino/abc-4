@@ -7,5 +7,3 @@ Pepsin, the primary enzyme for protein digestion, functions best at a low pH (be
 3. Reduces Pathogenic Bacteria Growth
 An acidic stomach environment helps control harmful bacteria like E. coli and Salmonella, which thrive at higher pH levels. Feed ingredients with lower ABC help maintain a more acidic gut environment, reducing the risk of diarrhea and improving gut health.
 4. Improves Feed Efficiency and Growth Performance. A diet with a balanced ABC ensures efficient digestion, better nutrient absorption, and improved feed conversion ratio (FCR). High ABC can lead to poor growth rates due to inefficient digestion.
-
-![image](https://github.com/user-attachments/assets/cf1f8a92-9748-4094-b07e-a2186d3f0a1f)
